@@ -1,9 +1,4 @@
-######################################################
-# Project: <project#2 Hopper Game>
-# UIN: <677265024>
-# repl.it URL: <https://replit.com/@GeorgeFashho/Proj2#main.py>
 
-######################################################
 
 #Imports
 
